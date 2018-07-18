@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 27cdf5c121c69b44483435487fe00d2b
+timeCreated: 1523429875
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AncientRunes
+  fontNames:
+  - AncientRunes
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
